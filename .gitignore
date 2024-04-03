@@ -1,0 +1,26 @@
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.class
+
+.project
+.classpath
+.settings
+target
+out
+
+/.gradle
+/.settings/
+/.settings/%
+/bin/
+/build/
+/target
+/.classpath
+/.project
+/.idea/
+*.iml
+.DS_Store
+logs
+#!/logs/
+auto-generate
